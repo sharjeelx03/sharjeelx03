@@ -1,213 +1,153 @@
+<br clear="right"/>
+
+---
+
+<!-- ██████████████████  LIVE ACTIVITY SNAKE  ██████████████████ -->
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Sharjeel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Solutions%20for%20Real-World%20Problems&descAlignY=60&descSize=16&descColor=a8c8e8"/>
+### 🐍 My Contribution Snake — Live & Automated
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=🤖+Robotics+%26+AI+Engineer;🧠+Deep+Learning+%7C+Computer+Vision;🚀+Building+the+Future%2C+One+Bot+at+a+Time)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ⚙️ *Auto-updates daily — snake eats your real GitHub contributions!*
+
+</div>
+
+---
+
+<!-- ██████████████████  LIVE GITHUB STATS  ██████████████████ -->
+<div align="center">
+
+## 📊 Live GitHub Intelligence Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharjeelx03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ccff&icon_color=00ff41&text_color=c9d1d9&ring_color=00ccff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelx03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ccff&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharjeelx03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharjeelawan508@gmail.com)
+<img width="70%" src="https://streak-stats.demolab.com?user=sharjeelx03&theme=dark&hide_border=true&background=0D1117&ring=00ccff&fire=00ff41&currStreakLabel=00ccff&sideLabels=7fffd4&dates=888888"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sharjeelx03&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/sharjeelx03?label=Followers&style=social)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelx03&bg_color=0d1117&color=00ccff&line=00ff41&point=7fffd4&area=true&hide_border=true&area_color=003366" width="100%"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- ██████████████████  PROJECTS  ██████████████████ -->
 
-```python
-class MuhammadSharjeel:
-    def __init__(self):
-        self.name         = "Muhammad Sharjeel"
-        self.role         = "Engineering Student"
-        self.university   = "Bahria University, Islamabad"
-        self.focus        = ["Robotics", "Artificial Intelligence", "Embedded Systems"]
-        self.languages    = ["Python", "C++"]
-        self.currently    = "Building AI & Robotics solutions 🤖"
-        self.open_to      = ["Internships", "Collaborations", "Tech Projects"]
-        self.quote        = "Engineering intelligent solutions for real-world problems."
+## 🚀 Mission Logs — Featured Projects
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+<div align="center">
 
-me = MuhammadSharjeel()
-me.say_hi()
-```
+| 🔴 | PROJECT | STACK | STATUS |
+|:---:|---|---|:---:|
+| 🌊 | **Flood Prediction via Satellite Imagery** — 76K+ images, CNN pipeline | `Python` `Keras` `TensorFlow` | ✅ Done |
+| 🧬 | **Skin Cancer Detection (EfficientNetB1)** — 7 lesion types, 70.39% acc | `Python` `EfficientNetB1` `Keras` | ✅ Done |
+| 🦅 | **Night Hawk Autonomous Robot** — Gesture + autonomous, Arduino | `C++` `Arduino` `AutoCAD` | ✅ Done |
+| 🔭 | **Next Gen AI+IoT Project** — In stealth mode... | `TBD` | 🔄 Building |
 
-I'm a passionate engineering student at the intersection of **Robotics** and **Artificial Intelligence**. I design and build autonomous robots, train deep learning models, and turn complex problems into working solutions. From microcontrollers to neural networks — I bridge hardware and intelligence.
+</div>
 
-📌 **Open to internships, collaborative projects, and learning opportunities.**
+<br/>
 
----
+<details>
+<summary>🌊 <b>Click to expand — Flood Prediction via Satellite AI</b></summary>
+<br/>
 
-## 🚀 Featured Projects
+> **Goal:** Predict flood-affected zones using satellite imagery and deep learning.
 
-<table>
-<tr>
-<td width="50%">
+- 📦 Dataset: **76,000+ satellite images** from Kaggle
+- 🧠 Model: **CNN** — full custom pipeline
+- 🔄 Pipeline: Data ingestion → Preprocessing → Augmentation → Training → Inference
+- 🎯 Focus: Binary classification — flood vs. non-flood
 
-### 🌊 Flood Prediction via Satellite Imagery
-> Deep Learning · Computer Vision · Python
+**Tech:** `Python` · `Keras` · `TensorFlow` · `OOP` · `NumPy` · `Matplotlib`
 
-- Trained on **76,000+ satellite images** (Kaggle)
-- Classifies flood vs. non-flood regions using CNN
-- Full pipeline: data preprocessing → model training → inference
+</details>
 
-**Stack:** `Python` `Keras` `TensorFlow` `OOP`
+<details>
+<summary>🧬 <b>Click to expand — Skin Cancer Detection (EfficientNetB1)</b></summary>
+<br/>
 
-</td>
-<td width="50%">
+> **Goal:** AI-powered skin lesion classification for early cancer detection.
 
-### 🧬 Skin Cancer Detection (EfficientNetB1)
-> Transfer Learning · Medical AI · HAM10000
+- 📦 Dataset: **HAM10000** — 10,000+ dermatoscopic images
+- 🧠 Model: **EfficientNetB1** via Transfer Learning
+- 🎯 Classes: 7 skin lesion types including melanoma
+- 📊 Accuracy: **70.39% validation accuracy**
+- 🖥️ CLI-based real-time prediction with probability outputs
 
-- Classifies **7 types of skin lesions**
-- Achieved **70.39% validation accuracy**
-- CLI-based real-time prediction system
+**Tech:** `Python` · `EfficientNetB1` · `Keras` · `Scikit-learn` · `Pandas`
 
-**Stack:** `Python` `EfficientNetB1` `Keras` `Scikit-learn`
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<details>
+<summary>🦅 <b>Click to expand — Night Hawk Scaled Robot</b></summary>
+<br/>
 
-### 🤖 Night Hawk – Scaled Robot Model
-> Robotics · Embedded Systems · Arduino
+> **Goal:** Functional scaled autonomous robot with gesture control.
 
-- Autonomous & gesture-controlled robot
-- Built with sensors, wireless modules & AutoCAD design
-- Developed during Mechanics & Robotics coursework
+- 🤖 Autonomous navigation + gesture-controlled mode
+- 🔌 Arduino, ultrasonic sensors & wireless modules
+- 📐 Chassis designed in **AutoCAD**
+- ⚡ Programmed in **C++**
 
-**Stack:** `Arduino` `C++` `AutoCAD` `Embedded Systems`
+**Tech:** `Arduino` · `C++` · `AutoCAD` · `Ultrasonic Sensors` · `Embedded Systems`
 
-</td>
-<td width="50%">
-
-### 💡 More Coming Soon...
-> AI · IoT · Computer Vision
-
-- Currently exploring IoT + AI integration
-- Working on next-gen robotics projects
-- Stay tuned — exciting things in the pipeline! 🔭
-
-**Follow me to stay updated!**
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ██████████████████  TECH STACK  ██████████████████ -->
 
-### 👨‍💻 Languages & AI/ML
+## 🛠️ Tech Arsenal
+
+### 🧠 AI / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### ⚙️ Hardware & Engineering
+### ⚙️ Hardware & Robotics
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
-### 🎨 Creative & Media
+### 🎨 Creative & Media Tools
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vMix-003087?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/vMix-003087?style=for-the-badge&logo=livestream&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Experience Timeline
+<!-- ██████████████████  EXPERIENCE TIMELINE  ██████████████████ -->
 
-```
-2026 (Present) ──────────────────────────────────────────────────────────────
-  🔹 IEEE Robotics & Automation Society → Liaison Officer
-  🔹 Bahria University Venture Club    → President
-
-2025 ─────────────────────────────────────────────────────────────────────────
-  🔹 Zindigi Prize x BSEAS             → Head of Content
-  🔹 HITECH Olympiad 2025              → Ambassador
-  🔹 IEEE RAS                          → Graphic Designer
-  🔹 Toddler Spectrum                  → Event Photographer
-
-2021–2022 ────────────────────────────────────────────────────────────────────
-  🔹 Haq News                          → Video Editor & Live Streamer
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharjeelx03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelx03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sharjeelx03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Leadership & Roles
-
-| Organization | Role | Period |
-|---|---|---|
-| 🤖 IEEE Robotics & Automation Society | Liaison Officer | Mar 2026 – Present |
-| 🚀 Bahria University Venture Club | **President** | Aug 2025 – Present |
-| 📢 Zindigi Prize x BSEAS | Head of Content | May 2025 – Present |
-| 🏅 HITECH Olympiad 2025 | Ambassador | Apr – May 2025 |
-| 🎨 IEEE RAS | Graphic Designer | Aug 2025 – Mar 2026 |
-
----
-
-## 🎯 What I'm Working On
-
-- 🔭 **Currently building:** AI-integrated robotics systems
-- 🌱 **Currently learning:** Advanced Computer Vision & Model Deployment
-- 💬 **Ask me about:** Robotics, Deep Learning, Embedded Systems, Content Creation
-- 🤝 **Looking to collaborate on:** AI/ML projects, Robotics, Open Source
-
----
-
-## 🌐 Services I Offer
-
-> 💻 Web Development · 📱 App Development · 🤖 AI/ML Solutions
-> 🎬 Video Editing & Animation · 📸 Event Photography · 🔧 Computer Repair
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*"Engineering intelligent solutions for real-world problems."*
-
-⭐ **If you find my work interesting, consider giving a star to my repos!** ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-</div>
+## 💼 Career Intel — Experience Log
