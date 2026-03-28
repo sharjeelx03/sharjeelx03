@@ -1,33 +1,25 @@
-name: ⚡ Auto-Generate Snake + Keep Profile Live
+name: Snake Animation
 
 on:
   schedule:
-    # Runs every day at midnight UTC — fully automatic, zero manual effort
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  generate-snake:
-    name: 🐍 Generate Contribution Snake
+  snake:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: 🐍 Generate light + dark snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sharjeelx03
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: 🚀 Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
