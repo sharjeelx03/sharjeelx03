@@ -1,144 +1,114 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a6b&height=180&section=header&text=Muhammad+Sharjeel&fontSize=48&fontColor=e6f1ff&fontAlignY=42&desc=Robotics+·+AI+·+Embedded+Systems&descSize=15&descColor=6e9fcf&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1a,40:0d2137,70:1a3a6b,100:5B9BD5&height=220&section=header&text=Muhammad+Sharjeel&fontSize=52&fontColor=e6f1ff&fontAlignY=45&desc=Robotics+·+AI+·+Embedded+Systems&descSize=16&descColor=5B9BD5&descAlignY=65&animation=fadeIn&stroke=5B9BD5&strokeWidth=1"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2400&pause=900&color=5B9BD5&center=true&vCenter=true&width=620&lines=Engineering+Student+%40+Bahria+University;Building+AI-Integrated+Robotics+Systems;President+%40+Bahria+University+Venture+Club;Open+to+Internships+·+Collabs+·+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2200&pause=800&color=5B9BD5&center=true&vCenter=true&width=680&lines=Engineering+Student+%40+Bahria+University+%F0%9F%8E%93;Building+AI-Integrated+Autonomous+Systems+%F0%9F%A4%96;President+%40+Bahria+University+Venture+Club+%F0%9F%9A%80;IEEE+RAS+Liaison+Officer+%F0%9F%93%A1;Open+to+Internships+%C2%B7+Collabs+%C2%B7+Open+Source+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/sharjeelx3">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Sharjeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:sharjeelawan508@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sharjeelawan508-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/sharjeelx03">
-  <img src="https://img.shields.io/badge/GitHub-sharjeelx03-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f"/>
+  <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sharjeelx03&style=flat-square&color=1a3a6b&label=Profile+Views&abbreviated=true"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sharjeelx03&style=for-the-badge&color=1a3a6b&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About
-
-```yaml
-name       : Muhammad Sharjeel
-alias      : sharjeelx03
-location   : Rawalpindi / Islamabad, Pakistan
-university : Bahria University, Islamabad
-focus      : Robotics · Artificial Intelligence · Embedded Systems
-status     : Engineering Student — ACTIVE
-mission    : AI-integrated autonomous systems
-open to    : Internships · Collaborations · Open Source
-```
-
----
-
-## Projects
-
-### 🌊 Flood Prediction via Satellite AI
-
-> Deep learning system trained on **76,000+ satellite images** to detect and classify flood-affected zones in real time.
-
-| | |
-|:--|:--|
-| **Dataset** | 76,000+ Kaggle satellite images |
-| **Model** | Custom CNN — full end-to-end pipeline |
-| **Output** | Binary classification: flood / non-flood |
-| **Stack** | `Python` · `Keras` · `TensorFlow` · `NumPy` |
-
-<br/>
-
-### 🧬 Skin Cancer Detection — EfficientNetB1
-
-> AI dermatology classifier for **7 skin lesion types** using transfer learning on the HAM10000 dataset.
-
-| | |
-|:--|:--|
-| **Dataset** | HAM10000 — 10,000+ dermatoscopic images |
-| **Model** | EfficientNetB1 (Transfer Learning) |
-| **Accuracy** | **70.39% validation accuracy** |
-| **Classes** | Melanoma, Nevi, BCC + 4 more |
-| **Stack** | `Python` · `EfficientNetB1` · `Keras` · `Scikit-learn` |
-
-<br/>
-
-### 🦅 Night Hawk — Autonomous Robot
-
-> Dual-mode autonomous robot with gesture-controlled override, built for Mechanics & Robotics coursework.
-
-| | |
-|:--|:--|
-| **Control** | Autonomous + Gesture-Controlled (dual-mode) |
-| **Hardware** | Arduino · Ultrasonic Sensors · RF Modules |
-| **Design** | Chassis engineered in AutoCAD |
-| **Stack** | `C++` · `Arduino` · `AutoCAD` · `Embedded C` |
-
----
-
-## Tech Stack
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Robotics & Embedded**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Creative & Dev Tools**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
----
-
-## GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharjeelx03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5B9BD5&icon_color=5B9BD5&text_color=8b949e&include_all_commits=true&count_private=true&border_radius=6&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelx03&layout=compact&hide_border=true&bg_color=0d1117&title_color=5B9BD5&text_color=8b949e&langs_count=6&border_radius=6"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sharjeelx03&show_icons=true&hide_border=true&bg_color=020c1a&title_color=5B9BD5&icon_color=5B9BD5&text_color=8b949e&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github&ring_color=1a3a6b"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelx03&layout=donut&hide_border=true&bg_color=020c1a&title_color=5B9BD5&text_color=8b949e&langs_count=6&border_radius=10"/>
+</td>
+</tr>
+</table>
 
-<br/>
+</div>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=sharjeelx03&theme=transparent&hide_border=true&background=0D1117&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8b949e&dates=446688&border_radius=6&stroke=1a3a6b"/>
+<div align="center">
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelx03&bg_color=0d1117&color=5B9BD5&line=1a3a6b&point=5B9BD5&area=true&hide_border=true&area_color=1a3a6b&radius=4&custom_title=Contribution+Graph"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sharjeelx03&theme=transparent&hide_border=true&background=020c1a&ring=5B9BD5&fire=5B9BD5&currStreakLabel=5B9BD5&sideLabels=8b949e&dates=446688&border_radius=10&stroke=1a3a6b"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## 📊 Skill Proficiency
+
+<div align="center">
+
+```
+AI & Machine Learning ████████████████████░░  90%
+Arduino & Embedded    ████████████████████░░  85%
+TensorFlow / Keras    ██████████████████░░░░  80%
+Robotics & AutoCAD    ████████████████░░░░░░  78%
+OpenCV / Vision       ████████████████░░░░░░  75%
+C / C++               ███████████████░░░░░░░  72%
+```
+
+</div>
+
+---
+
+## 🧠 Domain Expertise
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,arduino,cpp,raspberrypi,git,vscode,jupyter,linux&theme=dark&perline=10"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Domain | Tools & Stack | Level |
+|:---|:---|:---:|
+| 🤖 **AI / Deep Learning** | Python · TensorFlow · Keras · Scikit-learn | `████████░░` 85% |
+| 📡 **Embedded Systems** | C++ · Arduino · Embedded C · Raspberry Pi | `███████░░░` 80% |
+| 👁️ **Computer Vision** | OpenCV · NumPy · Pandas · CNN | `███████░░░` 75% |
+| 🛠️ **Hardware Design** | AutoCAD · RF Modules · Ultrasonic Sensors | `███████░░░` 78% |
+| 🎨 **Creative Tools** | Photoshop · Premiere Pro · Canva | `████████░░` 82% |
+
+</div>
+
+---
+
+## 🌐 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharjeelx03&bg_color=020c1a&color=5B9BD5&line=1a3a6b&point=5B9BD5&area=true&hide_border=true&area_color=1a3a6b&radius=6&custom_title=Contribution+Timeline&title_color=5B9BD5"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -152,25 +122,71 @@ open to    : Internships · Collaborations · Open Source
 
 ---
 
-## Leadership
+## 🏆 Achievements
 
-| Organization | Role | Status |
-|:---|:---|:---:|
-| 🚀 Bahria University Venture Club | **President** | `ACTIVE` |
-| 🤖 IEEE Robotics & Automation Society | **Liaison Officer** | `ACTIVE` |
-| 📢 Zindigi Prize × BSEAS | **Head of Content** | `ACTIVE` |
-| 🏅 HITECH Olympiad 2025 | Ambassador | `DONE` |
-| 🎨 IEEE RAS | Graphic Designer | `DONE` |
-| 🎭 Toddler Spectrum | Photographer | `DONE` |
-| 📺 Haq News | Video Editor & Streamer | `DONE` |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharjeelx03&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
+
+---
+
+## 🚀 Leadership Timeline
+
+<div align="center">
+
+```
+2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
+
+ 🚀 Bahria Venture Club ──────────────── President  [ACTIVE]
+ 📡 IEEE RAS ──────────────────── Liaison Officer  [ACTIVE]
+ 📢 Zindigi Prize × BSEAS ──── Head of Content    [ACTIVE]
+ 🏅 HITECH Olympiad 2025 ───────────── Ambassador  [DONE ✓]
+ 🎨 IEEE RAS ───────────────── Graphic Designer    [DONE ✓]
+ 🎭 Toddler Spectrum ───────────── Photographer    [DONE ✓]
+ 📺 Haq News ─────────── Video Editor & Streamer   [DONE ✓]
+```
+
+</div>
+
+---
+
+## 📈 Weekly Coding Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       ██████████████░░░░░░░   55.2%
+C/C++        ██████░░░░░░░░░░░░░░░   24.1%
+Embedded C   ███░░░░░░░░░░░░░░░░░░   12.4%
+MATLAB       █░░░░░░░░░░░░░░░░░░░░    5.3%
+Other        ░░░░░░░░░░░░░░░░░░░░░    3.0%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🛰️ Tech Radar
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharjeelx03&repo=sharjeelx03&bg_color=020c1a&title_color=5B9BD5&text_color=8b949e&icon_color=5B9BD5&hide_border=true&border_radius=10" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Let's build something great together.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B9BD5,50:1a3a6b,100:020c1a&height=120&section=footer&animation=fadeIn&fontColor=e6f1ff&fontSize=14&text=Let%27s+build+something+great+together&fontAlignY=65&descAlignY=85"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/sharjeelx3">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -179,9 +195,5 @@ open to    : Internships · Collaborations · Open Source
 <a href="mailto:sharjeelawan508@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6b,50:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn"/>
 
 </div>
