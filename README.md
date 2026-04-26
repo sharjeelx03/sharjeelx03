@@ -82,34 +82,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sharjeelx03&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-
-</div>
-
----
-
-## 🚀 Leadership Timeline
-
-<div align="center">
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
-
- 🚀 Bahria Venture Club ──────────────── President  [ACTIVE]
- 📡 IEEE RAS ──────────────────── Liaison Officer  [ACTIVE]
- 📢 Zindigi Prize × BSEAS ──── Head of Content    [ACTIVE]
- 🏅 HITECH Olympiad 2025 ───────────── Ambassador  [DONE ✓]
- 🎨 IEEE RAS ───────────────── Graphic Designer    [DONE ✓]
- 🎭 Toddler Spectrum ───────────── Photographer    [DONE ✓]
- 📺 Haq News ─────────── Video Editor & Streamer   [DONE ✓]
-```
-
-</div>
-
 ---
 
 ## 📈 Weekly Coding Breakdown
