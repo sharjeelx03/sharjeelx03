@@ -57,46 +57,6 @@
 
 ---
 
-## 📊 Skill Proficiency
-
-<div align="center">
-
-```
-AI & Machine Learning ████████████████████░░  90%
-Arduino & Embedded    ████████████████████░░  85%
-TensorFlow / Keras    ██████████████████░░░░  80%
-Robotics & AutoCAD    ████████████████░░░░░░  78%
-OpenCV / Vision       ████████████████░░░░░░  75%
-C / C++               ███████████████░░░░░░░  72%
-```
-
-</div>
-
----
-
-## 🧠 Domain Expertise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,arduino,cpp,raspberrypi,git,vscode,jupyter,linux&theme=dark&perline=10"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Domain | Tools & Stack | Level |
-|:---|:---|:---:|
-| 🤖 **AI / Deep Learning** | Python · TensorFlow · Keras · Scikit-learn | `████████░░` 85% |
-| 📡 **Embedded Systems** | C++ · Arduino · Embedded C · Raspberry Pi | `███████░░░` 80% |
-| 👁️ **Computer Vision** | OpenCV · NumPy · Pandas · CNN | `███████░░░` 75% |
-| 🛠️ **Hardware Design** | AutoCAD · RF Modules · Ultrasonic Sensors | `███████░░░` 78% |
-| 🎨 **Creative Tools** | Photoshop · Premiere Pro · Canva | `████████░░` 82% |
-
-</div>
-
----
 
 ## 🌐 Contribution Graph
 
