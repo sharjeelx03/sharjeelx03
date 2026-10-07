@@ -30,18 +30,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/sharjeelx03/sharjeelx03/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
 <a href="https://www.linkedin.com/in/sharjeelx3">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
